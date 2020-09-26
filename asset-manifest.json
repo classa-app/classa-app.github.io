@@ -1,35 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff0d13ba.chunk.css",
-    "main.js": "/static/js/main.aaa1bf23.chunk.js",
-    "main.js.map": "/static/js/main.aaa1bf23.chunk.js.map",
+    "main.css": "/static/css/main.215000f7.chunk.css",
+    "main.js": "/static/js/main.f40b56d0.chunk.js",
+    "main.js.map": "/static/js/main.f40b56d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e327d292.js",
     "runtime-main.js.map": "/static/js/runtime-main.e327d292.js.map",
     "static/css/2.f278118f.chunk.css": "/static/css/2.f278118f.chunk.css",
-    "static/js/2.cd1d11d8.chunk.js": "/static/js/2.cd1d11d8.chunk.js",
-    "static/js/2.cd1d11d8.chunk.js.map": "/static/js/2.cd1d11d8.chunk.js.map",
+    "static/js/2.1817f60f.chunk.js": "/static/js/2.1817f60f.chunk.js",
+    "static/js/2.1817f60f.chunk.js.map": "/static/js/2.1817f60f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.35062c702e2198ab5cfd3a0717215673.js": "/precache-manifest.35062c702e2198ab5cfd3a0717215673.js",
+    "precache-manifest.e94e7725f61da47a3df76f12013f7e5d.js": "/precache-manifest.e94e7725f61da47a3df76f12013f7e5d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f278118f.chunk.css.map": "/static/css/2.f278118f.chunk.css.map",
-    "static/css/main.ff0d13ba.chunk.css.map": "/static/css/main.ff0d13ba.chunk.css.map",
-    "static/js/2.cd1d11d8.chunk.js.LICENSE.txt": "/static/js/2.cd1d11d8.chunk.js.LICENSE.txt",
+    "static/css/main.215000f7.chunk.css.map": "/static/css/main.215000f7.chunk.css.map",
+    "static/js/2.1817f60f.chunk.js.LICENSE.txt": "/static/js/2.1817f60f.chunk.js.LICENSE.txt",
     "static/media/DrawerProfile.css": "/static/media/avatar-pupil.79c13dac.jpg",
     "static/media/arrow-right.5773f471.svg": "/static/media/arrow-right.5773f471.svg",
-    "static/media/CoursList.css": "/static/media/bg-cours.64f05229.jpg",
+    "static/media/QuizList.css": "/static/media/bg-cours.64f05229.jpg",
     "static/media/Profile.css": "/static/media/bg-prof.b31482c0.jpg",
     "static/media/bibliotheque.2391b252.svg": "/static/media/bibliotheque.2391b252.svg",
     "static/media/cours.59581913.svg": "/static/media/cours.59581913.svg",
     "static/media/icon_subActif_check.ba66c149.svg": "/static/media/icon_subActif_check.ba66c149.svg",
     "static/media/play.ab3c5448.svg": "/static/media/play.ab3c5448.svg",
     "static/media/PreviewTab.css": "/static/media/prev-3.81d80d11.jpg",
-    "static/media/quiz.f708bd08.svg": "/static/media/quiz.f708bd08.svg"
+    "static/media/quiz.f708bd08.svg": "/static/media/quiz.f708bd08.svg",
+    "static/media/rect_matiere.adab2f21.svg": "/static/media/rect_matiere.adab2f21.svg",
+    "static/media/rect_questions.7d35a689.svg": "/static/media/rect_questions.7d35a689.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e327d292.js",
     "static/css/2.f278118f.chunk.css",
-    "static/js/2.cd1d11d8.chunk.js",
-    "static/css/main.ff0d13ba.chunk.css",
-    "static/js/main.aaa1bf23.chunk.js"
+    "static/js/2.1817f60f.chunk.js",
+    "static/css/main.215000f7.chunk.css",
+    "static/js/main.f40b56d0.chunk.js"
   ]
 }
