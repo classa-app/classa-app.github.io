@@ -1,32 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e43c4ab.chunk.css",
-    "main.js": "/static/js/main.80445c56.chunk.js",
-    "main.js.map": "/static/js/main.80445c56.chunk.js.map",
+    "main.css": "/static/css/main.02f271df.chunk.css",
+    "main.js": "/static/js/main.ad50913a.chunk.js",
+    "main.js.map": "/static/js/main.ad50913a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e327d292.js",
     "runtime-main.js.map": "/static/js/runtime-main.e327d292.js.map",
     "static/css/2.f278118f.chunk.css": "/static/css/2.f278118f.chunk.css",
-    "static/js/2.67ac4cec.chunk.js": "/static/js/2.67ac4cec.chunk.js",
-    "static/js/2.67ac4cec.chunk.js.map": "/static/js/2.67ac4cec.chunk.js.map",
+    "static/js/2.cd1d11d8.chunk.js": "/static/js/2.cd1d11d8.chunk.js",
+    "static/js/2.cd1d11d8.chunk.js.map": "/static/js/2.cd1d11d8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7724ca73e56370ec8462b11fd9143fc3.js": "/precache-manifest.7724ca73e56370ec8462b11fd9143fc3.js",
+    "precache-manifest.c6ad142c20a08eff6977fab62ad9c6fd.js": "/precache-manifest.c6ad142c20a08eff6977fab62ad9c6fd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f278118f.chunk.css.map": "/static/css/2.f278118f.chunk.css.map",
-    "static/css/main.7e43c4ab.chunk.css.map": "/static/css/main.7e43c4ab.chunk.css.map",
-    "static/js/2.67ac4cec.chunk.js.LICENSE.txt": "/static/js/2.67ac4cec.chunk.js.LICENSE.txt",
+    "static/css/main.02f271df.chunk.css.map": "/static/css/main.02f271df.chunk.css.map",
+    "static/js/2.cd1d11d8.chunk.js.LICENSE.txt": "/static/js/2.cd1d11d8.chunk.js.LICENSE.txt",
     "static/media/DrawerProfile.css": "/static/media/avatar-pupil.79c13dac.jpg",
+    "static/media/arrow-right.5773f471.svg": "/static/media/arrow-right.5773f471.svg",
+    "static/media/CoursList.css": "/static/media/bg-cours.64f05229.jpg",
     "static/media/Profile.css": "/static/media/bg-prof.b31482c0.jpg",
     "static/media/bibliotheque.2391b252.svg": "/static/media/bibliotheque.2391b252.svg",
     "static/media/cours.59581913.svg": "/static/media/cours.59581913.svg",
     "static/media/icon_subActif_check.ba66c149.svg": "/static/media/icon_subActif_check.ba66c149.svg",
+    "static/media/play.ab3c5448.svg": "/static/media/play.ab3c5448.svg",
     "static/media/PreviewTab.css": "/static/media/prev-3.81d80d11.jpg",
     "static/media/quiz.f708bd08.svg": "/static/media/quiz.f708bd08.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e327d292.js",
     "static/css/2.f278118f.chunk.css",
-    "static/js/2.67ac4cec.chunk.js",
-    "static/css/main.7e43c4ab.chunk.css",
-    "static/js/main.80445c56.chunk.js"
+    "static/js/2.cd1d11d8.chunk.js",
+    "static/css/main.02f271df.chunk.css",
+    "static/js/main.ad50913a.chunk.js"
   ]
 }

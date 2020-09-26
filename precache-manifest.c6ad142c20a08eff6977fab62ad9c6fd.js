@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f46b51bf4dab4bf8796f77471d46a911",
+    "revision": "afaef7a573703dce2a23e54f508c1672",
     "url": "/index.html"
   },
   {
-    "revision": "e8d6e027f75b73e66555",
+    "revision": "62b39046101e012fcbc0",
     "url": "/static/css/2.f278118f.chunk.css"
   },
   {
-    "revision": "81fd188007f5bb83be18",
-    "url": "/static/css/main.7e43c4ab.chunk.css"
+    "revision": "0b03b82d70b15884b35b",
+    "url": "/static/css/main.02f271df.chunk.css"
   },
   {
-    "revision": "e8d6e027f75b73e66555",
-    "url": "/static/js/2.67ac4cec.chunk.js"
+    "revision": "62b39046101e012fcbc0",
+    "url": "/static/js/2.cd1d11d8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.67ac4cec.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.cd1d11d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81fd188007f5bb83be18",
-    "url": "/static/js/main.80445c56.chunk.js"
+    "revision": "0b03b82d70b15884b35b",
+    "url": "/static/js/main.ad50913a.chunk.js"
   },
   {
     "revision": "b757cbfa5b52942fc711",
@@ -32,8 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ad.03b853ca.jpg"
   },
   {
+    "revision": "5773f471c2c1791eeed97a10d549e477",
+    "url": "/static/media/arrow-right.5773f471.svg"
+  },
+  {
     "revision": "79c13dac7e31467bbf2146174276f042",
     "url": "/static/media/avatar-pupil.79c13dac.jpg"
+  },
+  {
+    "revision": "64f0522975e12821be26c3e573928068",
+    "url": "/static/media/bg-cours.64f05229.jpg"
   },
   {
     "revision": "b31482c01356f5dd668cfb19bb4e0c4a",
@@ -50,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba66c149be55f9c91cfe866e42ad88ec",
     "url": "/static/media/icon_subActif_check.ba66c149.svg"
+  },
+  {
+    "revision": "ab3c5448c10c64d9a3646352a9723a6d",
+    "url": "/static/media/play.ab3c5448.svg"
   },
   {
     "revision": "46a3e5ec9f38a5ccd3ce63751978d6e2",
