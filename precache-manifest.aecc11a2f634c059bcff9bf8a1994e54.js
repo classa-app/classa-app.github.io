@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfe4de02d6a528f8874fd40a66bd08fb",
+    "revision": "274c9150f208f3ec885f818bfc9fd1f2",
     "url": "/index.html"
   },
   {
-    "revision": "179c866e0260ef3119cc",
+    "revision": "023e4f9a7c5f2dcc1487",
     "url": "/static/css/2.f278118f.chunk.css"
   },
   {
-    "revision": "40cd0b947cdd5e63bf9a",
-    "url": "/static/css/main.13c7a15f.chunk.css"
+    "revision": "c1ca61bec0bbeb1fc7e0",
+    "url": "/static/css/main.9dab0b38.chunk.css"
   },
   {
-    "revision": "179c866e0260ef3119cc",
-    "url": "/static/js/2.1cd9b721.chunk.js"
+    "revision": "023e4f9a7c5f2dcc1487",
+    "url": "/static/js/2.8c73f5ad.chunk.js"
   },
   {
     "revision": "33ade7f87243ebea1c83e915f94afce3",
-    "url": "/static/js/2.1cd9b721.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8c73f5ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40cd0b947cdd5e63bf9a",
-    "url": "/static/js/main.768da47d.chunk.js"
+    "revision": "c1ca61bec0bbeb1fc7e0",
+    "url": "/static/js/main.acb19913.chunk.js"
   },
   {
     "revision": "b757cbfa5b52942fc711",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bibliotheque.2391b252.svg"
   },
   {
+    "revision": "fc89d8a9d7bdb7b50e99415c764ebd15",
+    "url": "/static/media/check.fc89d8a9.svg"
+  },
+  {
     "revision": "59581913d175508815b81473204e0f4d",
     "url": "/static/media/cours.59581913.svg"
   },
@@ -94,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f708bd0875f8286fb0d527485d2c8138",
     "url": "/static/media/quiz.f708bd08.svg"
+  },
+  {
+    "revision": "832b1545d70aba23c90e81ba44f31c1f",
+    "url": "/static/media/wrong.832b1545.svg"
   }
 ]);
